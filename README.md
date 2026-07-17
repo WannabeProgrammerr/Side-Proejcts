@@ -55,13 +55,6 @@ Cohort Retention at 6 Months:        50-75%
 - `results/saas_analytics.png` - Professional 4-panel dashboard
 - `README.md` - Detailed project documentation
 
-### How to Run
-```bash
-cd project1-saas-analytics
-pip install -r ../requirements.txt
-python saas_cohort_analysis.py
-```
-
 ### Business Impact
 **In a real scenario**, this analysis would:
 - Identify which plan types are sustainable
@@ -69,9 +62,6 @@ python saas_cohort_analysis.py
 - Enable data-driven pricing decisions
 - Forecast revenue based on cohort health
 - Justify marketing spend by showing CAC ROI
-
-### Interview Talking Points
-> "I analyzed subscription cohorts to measure product-market fit. The data showed month-to-month contracts have 70% churn versus 5% for annual plans, representing a critical product issue. Unit economics calculated as LTV:CAC of 4.75x indicate the business model is healthy and ready to scale."
 
 ---
 
@@ -130,13 +120,6 @@ High-Risk Countries:             60% (Nigeria, China, Russia, India)
 - `results/fraud_detection.png` - Professional 4-panel dashboard with ROC curves
 - `README.md` - Comprehensive project documentation
 
-### How to Run
-```bash
-cd project2-marketplace-fraud
-pip install -r ../requirements.txt
-python fraud_detection.py
-```
-
 ### Model Details
 
 **Training Approach:**
@@ -164,12 +147,7 @@ python fraud_detection.py
 - **Reduce false positives** to minimize customer frustration
 - **Adapt in real-time** as fraud patterns evolve
 
-### Interview Talking Points
-> "I built an ensemble machine learning model achieving 90% ROC-AUC for fraud detection. The analysis revealed that wire transfers have 2.5x fraud risk and new accounts within 30 days have a 45% fraud rate. I engineered 15 features from transaction data and created dynamic risk scoring that would process 40,000+ daily transactions, preventing millions in fraud at scale."
-
 ---
-
-## 📁 Repository Structure
 
 ```
 Side-Proejcts/
