@@ -224,70 +224,6 @@ Side-Proejcts/
 
 ---
 
-## 📊 Quick Start
-
-### Prerequisites
-- Python 3.7+
-- Git
-- Basic SQL knowledge (helpful but not required)
-
-### Installation & Setup
-```bash
-# Clone the repository
-git clone https://github.com/WannabeProgrammerr/Side-Proejcts.git
-cd Side-Proejcts
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Running the Projects
-
-**Project 1: SaaS Analytics**
-```bash
-cd project1-saas-analytics
-python saas_cohort_analysis.py
-```
-Output: Console metrics + `results/saas_analytics.png`
-
-**Project 2: Fraud Detection**
-```bash
-cd project2-marketplace-fraud
-python fraud_detection.py
-```
-Output: Console metrics + `results/fraud_detection.png`
-
----
-
-## 💼 How to Use This Portfolio
-
-### For Job Applications
-**Add to Resume:**
-```
-Projects & Portfolio: github.com/WannabeProgrammerr/Side-Proejcts
-
-• SaaS Cohort Analytics: Subscription business analysis, 
-  unit economics (CAC, LTV, NRR), retention tracking
-
-• Fraud Detection: ML ensemble (90% ROC-AUC), real-time 
-  risk scoring, 15 engineered features
-```
-
-**In Cover Letter:**
-> "My portfolio includes two specialized projects demonstrating expertise in high-value business problems: SaaS unit economics (CAC, LTV, NRR analysis) and enterprise fraud detection using ensemble ML achieving 90% ROC-AUC. Both projects showcase production-quality code and real-world problem solving."
-
-**In Email to Recruiter:**
-> "I've built a specialized data analyst portfolio focused on two business-critical areas: SaaS metrics and fraud prevention. Both projects use advanced SQL and Python ML. GitHub: github.com/WannabeProgrammerr/Side-Proejcts"
-
-### For Interviews
-Be prepared to discuss:
-- **SaaS Project**: Unit economics, cohort analysis, churn factors, business recommendations
-- **Fraud Project**: ML models, feature engineering, risk scoring, business impact
-- **Technical Depth**: How you built each component, tradeoffs, what you'd do differently
-- **Business Impact**: Dollar value protected/generated, scalability, production considerations
-
----
-
 ## 🎓 Key Learnings & Takeaways
 
 ### From SaaS Project
@@ -343,13 +279,6 @@ This portfolio represents my expertise in:
 - **Production thinking** - code that would work at scale
 
 Each project is designed to demonstrate depth, not breadth. Rather than 10 simple projects, 2 specialized projects show mastery of critical business domains.
-
----
-
-## 📧 Connect With Me
-
-**GitHub**: [github.com/WannabeProgrammerr](https://github.com/WannabeProgrammerr)  
-**Portfolio**: [github.com/WannabeProgrammerr/Side-Proejcts](https://github.com/WannabeProgrammerr/Side-Proejcts)
 
 ---
 
