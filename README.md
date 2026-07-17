@@ -1,4 +1,4 @@
-# 🎯 Elite Data Analyst Portfolio
+# Data Analyst Portfolio
 
 Welcome to my data analyst portfolio! This repository showcases **2 specialized, niche projects** that demonstrate expertise in real-world data challenges. Each project is designed to solve actual business problems that companies care about.
 
